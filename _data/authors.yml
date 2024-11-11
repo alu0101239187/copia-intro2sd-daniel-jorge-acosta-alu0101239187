@@ -1,0 +1,16 @@
+# Authors
+
+Daniel Jorge Acosta:
+  name: "Daniel Jorge Acosta"
+  bio: "Soy un estudiante del Máster en Ingeniería Informática de la Universidad de La Laguna con muchas ganas de aprender y adquirir nueva experiencia."
+  avatar: "/assets/images/profile-photo.jpg"
+  links:
+    - label: "Correo electrónico"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:alu0101239187@ull.edu.es"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/alu0101239187"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/daniel-jorge-acosta/"
