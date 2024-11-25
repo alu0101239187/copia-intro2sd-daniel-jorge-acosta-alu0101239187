@@ -6,4 +6,4 @@ El objetivo de esta práctica es añadir un buscador simple al sitio web generad
 
 ## Informe de la práctica
 
-El informe de la práctica se puede encontrar en forma de post con el título "Informe Jekyll Search". Para revisarlo desplegado puede hacerlo en [GitHub Pages](https://ull-mii-sytws-2425.github.io/intro2sd-daniel-jorge-acosta-alu0101239187/posts) o en [Netlify](https://intro2sd-daniel-jorge-acosta-alu01012.netlify.app/posts).
+El informe de la práctica se puede encontrar en forma de post con el título "Informe Jekyll Search". Para revisarlo desplegado puede hacerlo en [GitHub Pages](https://ull-mii-sytws-2425.github.io/intro2sd-daniel-jorge-acosta-alu0101239187/year-archive) o en [Netlify](https://intro2sd-daniel-jorge-acosta-alu01012.netlify.app/year-archive).
