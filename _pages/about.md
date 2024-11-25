@@ -20,13 +20,17 @@ En esta práctica se personaliza un sitio web generado usando Jekyll. En este se
 
 ## Posts
 
-| Nombre                                                         | Descripción                                                                                                 |
-| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| [Informe de la práctica][report-post]                          | Informe de la práctica "Introduction to Systems Development" and Static Generators.                         |
-| [Resumen "Introduction to Systems Development"][abstract-post] | Resumen del capítulo 1 del libro "Developing Information Systems: Practical Guidance for IT Professionals". |
+| Nombre                                                           | Descripción                                                                                                 |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [Informe de la práctica 9][report1-post]                         | Informe de la práctica "Introduction to Systems Development" and Static Generators.                         |
+| [Resumen "Introduction to Systems Development"][abstract1-post]  | Resumen del capítulo 1 del libro "Developing Information Systems: Practical Guidance for IT Professionals". |
+| [Informe de la práctica 10][report2-post]                        | Informe de la práctica Jekyll Search.                                                                       |
+| [Resumen "Lifecycle Types and Their Rationales"][abstract2-post] | Resumen del capítulo 2 del libro "Developing Information Systems: Practical Guidance for IT Professionals". |
 
-[report-post]: {{ "" | relative_url }}{% post_url 2022-10-01-informe %}
-[abstract-post]: {{ "" | relative_url }}{% post_url 2024-11-10-chapter1-abstract %}
+[report1-post]: {{ "" | relative_url }}{% post_url 2022-10-01-informe %}
+[abstract1-post]: {{ "" | relative_url }}{% post_url 2024-11-10-chapter1-abstract %}
+[report2-post]: {{ "" | relative_url }}{% post_url 2024-11-21-informe-jekyll-search %}
+[abstract2-post]: {{ "" | relative_url }}{% post_url 2024-11-21-chapter2-abstract %}
 
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Introduction to Systems Development"
-excerpt_separator: "<!--more-->"
 categories:
   - Posts
 tags:
